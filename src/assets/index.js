@@ -16,19 +16,31 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import threejs from "./tech/threejs.svg";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import azure from "./tech/azure.svg";
+import sql from "./tech/sql.png";
+import python from "./tech/python.svg";
+import shell from "./tech/shell.png";
+import spark from "./tech/spark.png";
+import kafka from "./tech/kafka.png";
+import kubernetes from "./tech/kubernetes.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import microsoft from "./company/microsoft.png";
+import walmart from "./company/walmart.png";
+import nttdata from "./company/nttdata.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import churn from "./project/churn.jpg";
+import flower from "./project/flower.jpg";
+import seattle from "./project/seattle.jpg";
+import stock from "./project/stock.jpg";
+
+import linkedin from "./linkedin.svg";
+import github_logo from "./github_logo.svg";
+import medium from "./medium.svg";
+
 
 export {
   logo,
@@ -52,11 +64,21 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  azure,
+  sql,
+  python,
+  kafka,
+  kubernetes,
+  spark,
+  shell,
+  microsoft,
+  walmart,
+  nttdata,
+  churn,
+  flower,
+  seattle,
+  stock,
+  linkedin,
+  github_logo,
+  medium,
 };
